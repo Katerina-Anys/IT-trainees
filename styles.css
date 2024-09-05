@@ -3,6 +3,10 @@ body {
     background-color:rgb(195, 228, 234) 
 }
 
+.main {
+    text-align: center;
+}
+
 hr{
     border: 1px solid rgba(0, 0, 0, 0.442);
     width: 60%;
@@ -68,6 +72,11 @@ a:visited{
 }
 
 
-.slide{
-    width: 900px;
+.carousel-inner{
+    width:100%;
+
+    
 }
+
+
+
